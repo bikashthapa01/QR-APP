@@ -1,4 +1,4 @@
-# QR-APP - QR Code Generator and QR Code Reader Android App
+## QR Code Generator and QR Code Reader Android App
 
 This android Application can read any given qr code and Generate the qr code based on the given input.
 ** If you are beginner and looking for any android studio project to learn, this App development challenge is for you. 
